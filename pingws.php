@@ -1,6 +1,6 @@
 <?php
 /**
- * Tool for testing webservice connection (wsdl acccess).
+ * Webservice connection test tool (wsdl acccess).
  * Structured/Script version
  * @author Bruno Wesley Correa de Almeida (bruno.correa.at@gmail.com)
  */
